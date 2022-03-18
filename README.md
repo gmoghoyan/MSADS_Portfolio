@@ -10,7 +10,7 @@
 ###### Students are also taught to communicate their findings in a clear and effective manner to a broad audience of interested parties.
 ###### Essential to this task are the various tools used to analyze the data, build models and visualize the findings. These tools include Python, R, Microsoft Excel but also Adobe Illustrator and were utilized throughout the program. 
 
-## Portfolio Contents
+## Course Projects
 ###### The coursework showcased in this portfolio exemplifies the goals and objectives of the program, as found in the following courses: 
 ###### IST 659: Database Administration Concepts and Database Management
 ###### IST 687: Introduction to Data Science
