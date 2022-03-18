@@ -15,3 +15,4 @@
 ###### IST 659: Database Administration Concepts and Database Management
 ###### IST 687: Introduction to Data Science
 ###### IST 664: Natural Language Processing
+
