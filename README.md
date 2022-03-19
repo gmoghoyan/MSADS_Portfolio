@@ -12,7 +12,7 @@
 
 ## Course Projects
 ###### The coursework showcased in this portfolio exemplifies the goals and objectives of the program, as found in the following courses: 
-###### [IST 659](/IST659): Database Administration Concepts and Database Management
-###### IST 687: Introduction to Data Science
-###### IST 664: Natural Language Processing
+###### [IST 659: Database Administration Concepts and Database Management](/IST659)
+###### [IST 687: Introduction to Data Science](/IST687)
+###### [IST 664: Natural Language Processing](/IST664)
 
